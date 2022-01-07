@@ -1,7 +1,7 @@
-print("muszyna")
+print("muszyna") # dobry kod
 
-print("dupa")
+print("dupa") #zły kod 
 
-print("dupa2")
+print("dupa2") #zły kod 
 
-print("fefe")
+print("fefe") #zły kod 
